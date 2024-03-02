@@ -1,0 +1,117 @@
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.exe
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.deps.json
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.runtimeconfig.json
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.dll
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.pdb
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.Form1.resources
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.Form2.resources
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.Properties.Resources.resources
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AssemblyInfo.cs
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.dll
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\refint\HOMEPAGE.dll
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.pdb
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.genruntimeconfig.cache
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\ref\HOMEPAGE.dll
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.Form3.resources
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.Form4.resources
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.CacBoPhan.resources
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.LienLac.resources
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.CEO.resources
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.CopyComplete
+C:\Users\pc\Desktop\HOME\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AnNinh.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.exe
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.deps.json
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.runtimeconfig.json
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.dll
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.pdb
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AnNinh.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.CacBoPhan.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.CEO.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.History.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.LienLac.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.LoginForm.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.MainForm.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.Properties.Resources.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.RegisterForm.resources
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AssemblyInfo.cs
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.CopyComplete
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.dll
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\refint\HOMEPAGE.dll
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.pdb
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.genruntimeconfig.cache
+C:\Users\pc\Desktop\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\ref\HOMEPAGE.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.exe
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.deps.json
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.runtimeconfig.json
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AnNinh.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.CacBoPhan.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.CEO.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.History.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.LienLac.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.LoginForm.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.MainForm.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.Properties.Resources.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.RegisterForm.resources
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.CopyComplete
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\refint\HOMEPAGE.dll
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.pdb
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Zalo Received Files\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\ref\HOMEPAGE.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.exe
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\HOMEPAGE.pdb
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\FontAwesome.Sharp.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AnNinh.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.CacBoPhan.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.CEO.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.History.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.LienLac.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.LoginForm.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.MainForm.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.RegisterForm.resources
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.sourcelink.json
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\refint\HOMEPAGE.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.pdb
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\HOMEPAGE.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\obj\Debug\net8.0-windows\ref\HOMEPAGE.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ADMIN\OneDrive\Desktop\CNPM\CNPM\HOMEPAGE\HOMEPAGE\HOMEPAGE\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
